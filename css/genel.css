@@ -1,0 +1,37 @@
+body                 {font-size:18pt;color:#000000;font-weight:normal;font-family:Arial;text-decoration:none;margin:0px;background-color:#ffffff;background-image:url(/resim/arkaplan/ap_genel.jpg);background-attachment:fixed}
+div.duvar            {position:static;width:100%;padding-top:20px;padding-bottom:30px}
+table.ana_menu       {padding:2px;background-color:#808080;border:3px solid #000000;border-radius:40px;background-image:url(/resim/arkaplan/ap_ana_menu_table.jpg)}
+a.ana_menu           {display:block;font-family:Arial;color:#e5a00d;font-size:32px;font-weight:normal;text-align:center;text-decoration:none;margin:2px;padding-left:7px;padding-right:7px;padding-top:27px;padding-bottom:26px;background-color:#004000;border-radius:40px}
+a.ana_menu:hover     {display:block;font-family:Arial;color:#e5c00d;font-size:32px;font-weight:normal;text-align:center;text-decoration:none;margin:2px;padding-left:7px;padding-right:7px;padding-top:27px;padding-bottom:26px;background-color:#006500;border-radius:40px}
+a                    {text-decoration:none;font-family:Arial;color:#000000;font-weight:normal}
+a.link               {text-decoration:none;font-family:Arial;color:#9900bb;font-weight:normal}
+a.resim              {display:block;padding:3px;background-color:#e5a00d}
+a.resim:hover        {display:block;padding:3px;background-color:#fefefe}
+a.resim_link         {display:block;font-family:Arial;color:#e5a00d;font-size:22px;font-weight:bold;text-align:center;text-decoration:none;background-color:#000000;border:10px outset #e5a00d;border-radius:8px}
+a.resim_link:hover   {display:block;font-family:Arial;color:#e5c00d;font-size:22px;font-weight:bold;text-align:center;text-decoration:none;background-color:#000000;border:10px outset #e5c00d;border-radius:8px}
+a.video              {display:block;font-family:Arial;color:#bbbbbb;font-size:20px;font-weight:normal;text-align:left;text-decoration:none;background-color:#000000;border-radius:4px;padding:2px;width:300px;height:240px}
+a.video:hover        {display:block;font-family:Arial;color:#000000;font-size:20px;font-weight:normal;text-align:left;text-decoration:none;background-color:#fefefe;border-radius:4px;padding:2px;width:300px;height:240px} 
+table.video          {font-family:Arial;color:#880000;font-size:32px;font-weight:normal;text-align:left;text-decoration:none;background-color:#880000;border-radius:4px;padding:3px}
+a.oyun               {display:block;font-family:Arial;color:#bbbbbb;font-size:24px;font-weight:normal;text-align:left;text-decoration:none;background-color:#000000;border-radius:4px;padding:2px;line-height:32px;width:300px;height:265px}
+a.oyun:hover         {display:block;font-family:Arial;color:#000000;font-size:24px;font-weight:normal;text-align:left;text-decoration:none;background-color:#fefefe;border-radius:4px;padding:2px;line-height:32px;width:300px;height:265px} 
+a.buton              {zoom:100%}
+a.buton:hover        {zoom:90%}
+p.donus              {margin-top:15px;margin-bottom:15px;padding-top:43px;padding-bottom:42px}
+a.donus              {font-family:Arial;color:#FEFEFE;font-size:24px;font-weight:bold;text-align:center;text-decoration:none;background-color:#000000;padding-left:20px;padding-right:20px;padding-top:25px;padding-bottom:25px;border-radius:40px}
+a.donus:hover        {font-family:Arial;color:#000000;font-size:24px;font-weight:bold;text-align:center;text-decoration:none;background-color:#FEFEFE;padding-left:20px;padding-right:20px;padding-top:25px;padding-bottom:25px;border-radius:40px}
+ul                   {margin-top:20px;margin-bottom:20px}
+ol                   {margin-top:20px;margin-bottom:20px}
+li                   {margin-top:10px;margin-bottom:10px}
+p                    {margin-top:20px;margin-bottom:20px}
+p.baslik             {font-size:32pt;color:#006666;font-weight:bold;font-family:Arial;margin-top:0px;margin-bottom:20px}
+h1                   {font-size:30pt;color:#006666;font-weight:bold;font-family:Arial;margin-top:10px;margin-bottom:15px}
+h2                   {font-size:26pt;color:#880000;font-weight:bold;font-family:Arial;margin-top:15px;margin-bottom:20px}
+div.konular          {width:860px;font-size:20pt;color:#696969;font-weight:bold;font-family:Arial;text-align:left;text-decoration:none;margin-top:10px;margin-bottom:0px;padding:20px;border-radius:40px;background-color:white;background-image:url(/resim/arkaplan/ap_not.jpg)}
+div.not              {width:860px;font-size:20pt;color:#000000;font-weight:normal;font-family:Arial;text-align:left;text-decoration:none;margin-top:15px;margin-bottom:15px;padding:20px;border-radius:40px;background-color:white;background-image:url(/resim/arkaplan/ap_not.jpg)}
+table.not            {font-size:20pt;color:#000000;font-weight:normal;font-family:Arial;text-align:left;text-decoration:none;padding:5px;border-radius:8px;background-color:white;background-image:url(/resim/arkaplan/ap_not.jpg)}
+div.liste            {width:840px;text-align:left;text-decoration:none;margin-top:15px;margin-bottom:15px;padding:10px;border-radius:40px;background-color:#ffffff;background-image:url(/resim/arkaplan/ap_not.jpg)}
+table.liste          {width:840px;text-align:left;font-family:Arial;color:#000000;font-size:20pt;font-weight:normal;text-decoration:none;margin-top:15px;margin-bottom:15px;padding:15px;border-radius:40px;background-color:#ffffff;background-image:url(/resim/arkaplan/ap_not.jpg)}
+table.liste:hover    {width:840px;text-align:left;font-family:Arial;color:#FEFEFE;font-size:20pt;font-weight:normal;text-decoration:none;margin-top:15px;margin-bottom:15px;padding:15px;border-radius:40px;background-color:#000000;background-image:url(/resim/arkaplan/ap_not_hover.jpg)}
+p.liste              {margin:5px;padding-left:5px;padding-right:5px;padding-top:20px;padding-bottom:20px;border-radius:40px;border:5px double gray}
+a.liste              {display:block;font-family:Arial;color:#000000;font-size:20pt;font-weight:normal;text-decoration:none;margin-top:5px;margin-bottom:5px;padding:20px;border-radius:40px;border-style:solid;}
+a.liste:hover        {display:block;font-family:Arial;color:#FEFEFE;font-size:20pt;font-weight:normal;text-decoration:none;margin-top:5px;margin-bottom:5px;padding:20px;border-radius:40px;border-style:solid;background-color:#000000}
